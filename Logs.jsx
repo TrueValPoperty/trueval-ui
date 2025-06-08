@@ -22,9 +22,9 @@ export default function Logs() {
         <table className="table-auto w-full border text-sm">
           <thead>
             <tr className="bg-gray-200">
-              <th className="border px-3 py-2 text-left">Timestamp</th>
-              <th className="border px-3 py-2 text-left">Valuation</th>
-              <th className="border px-3 py-2 text-left">Confidence</th>
+              <th className="border px-3 py-2">Timestamp</th>
+              <th className="border px-3 py-2">Valuation</th>
+              <th className="border px-3 py-2">Confidence</th>
             </tr>
           </thead>
           <tbody>

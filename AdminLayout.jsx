@@ -3,6 +3,8 @@ import { Link, Outlet, useLocation } from 'react-router-dom';
 const tabs = [
   { name: "Dashboard", path: "/" },
   { name: "Logs", path: "/logs" },
+  { name: "Users", path: "/users" },
+  { name: "Settings", path: "/settings" }
 ];
 
 export default function AdminLayout() {
