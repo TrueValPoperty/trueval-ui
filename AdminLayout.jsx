@@ -9,7 +9,6 @@ const tabs = [
 
 export default function AdminLayout() {
   const { pathname } = useLocation();
-
   return (
     <div className="flex min-h-screen">
       <aside className="w-64 bg-gray-800 text-white p-4 space-y-4">
@@ -28,7 +27,7 @@ export default function AdminLayout() {
           ))}
         </nav>
       </aside>
-      <main className="flex-1 p-6">
+      <main className="flex-1 p-6 bg-gray-100">
         <Outlet />
       </main>
     </div>
