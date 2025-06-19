@@ -1,0 +1,6 @@
+Section,Heading,Subheading,Description,Notes
+Hero,Know What Your Property Is Worth — In Seconds,"AI-powered, hyperlocal property valuations for smarter investment decisions.",Get My Free Valuation CTA,
+How It Works,How It Works,,1. Submit property info. 2. AI estimates value. 3. Receive insights.,Step-by-step instructions
+Benefits,Why Use TrueVal?,,"Localised accuracy, EPC upgrade advice, investment suitability.",List of benefits
+Form,Request a Valuation,,"Embedded form goes here with full name, email, postcode, etc.",Can link Airtable or use React
+Trust,Trust & Transparency,,We don’t sell data. Backed by AI. Built by investors.,Include contact: hello@trueval.co.uk

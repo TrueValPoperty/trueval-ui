@@ -1,0 +1,9 @@
+Field Name,Type,Required,Notes
+Full Name,Short text,Yes,User’s name
+Email,Email,Yes,To send confirmation
+Property Address,Long text,Yes,Full street address
+Postcode,Short text,Yes,For location accuracy
+Property Type,"Dropdown (Flat, Detached, etc.)",Yes,Choose from common types
+Bedrooms,Number,Yes,Number of rooms
+EPC Rating,Dropdown (A–G),Optional,If known
+Notes,Long text,Optional,Any other relevant info
